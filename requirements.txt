@@ -4,3 +4,4 @@ openai
 tiktoken
 langchain_community
 PyPDF2
+dotenv
